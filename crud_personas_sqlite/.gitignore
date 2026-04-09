@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+personas.db
+__pycache__/
+=======
+../.idea/
+__pycache__/
+.venv/
+>>>>>>> bb8d0dc (Agrega funciones de personas y persistencia en JSON)
